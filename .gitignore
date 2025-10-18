@@ -23,4 +23,5 @@ yarn-error.log
 /.zed
 
 .DS_Store
+/vendor/_laravel_ide
 # composer.lock
