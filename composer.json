@@ -1,9 +1,9 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "jevantang/starteam",
+    "name": "jevantang/china-sourcing-agency",
     "type": "project",
-    "description": "StarTeam Pte. Ltd.",
-    "keywords": ["starteam"],
+    "description": "Website code of a China sourcing agency",
+    "keywords": ["china-sourcing-agency"],
     "require": {
         "php": "^8.2",
         "laravel/framework": "^12.0",
